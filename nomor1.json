@@ -1,0 +1,15 @@
+{ 
+    "biodata" : {
+      "name"      : "Farrel Natan",
+      "Address"   : "Jl. Taman Tlogomulyo Cluster 01 no.6",
+      "hobbies"   : ["code","play game","cycling"],
+      "is_maried" : false,
+      "skills"    : {"backend":"php mysql", "frontend":"html css"},
+      "schools"   : {
+        "highschool":"SMK NEGERI 9 SEMARANG",
+        "university":"NULL"
+        }
+        
+    }
+    
+  }
